@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Ricky Randar",
-    "currentPage": "Gallery.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -539,7 +539,7 @@
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
-            "sound": "https://soundcloud.com/rickyrandar/haw-mame-ft-limited-masters-destructed-masters-havoc-fam",
+            "sound": "https://soundcloud.com/rickyrandar/",
             "autoplay": true,
             "fullWidth": true,
             "bgColor": "#cccccc"
@@ -549,8 +549,8 @@
             "Extension"
           ],
           "_afterNavbarItem": false,
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F232788873&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F232788873",
           "_name": "soundcloud2",
           "_anchor": "soundcloud2-w"
         },
@@ -1618,7 +1618,7 @@
           "_params": {
             "paddingTop": 0,
             "paddingBottom": 0,
-            "sound": "https://soundcloud.com/rickyrandar/haw-mame-ft-limited-masters-destructed-masters-havoc-fam",
+            "sound": "https://soundcloud.com/rickyrandar/",
             "autoplay": true,
             "fullWidth": true,
             "bgColor": "#cccccc"
@@ -1628,8 +1628,8 @@
             "Extension"
           ],
           "_afterNavbarItem": false,
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234652184",
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F232788873&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F232788873",
           "_name": "soundcloud2",
           "_anchor": "soundcloud2-x"
         },
